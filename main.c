@@ -12,7 +12,7 @@ void tageMonat();
 // Funktionsprototyp für Aufgabe 3
 void pyramide();
 
-// Am Hauptteil muss nichts geändert werden. Der Code kann in die zwei Funktionen geschrieben werden.
+// Am Hauptteil muss nichts geändert werden. Der Code kann in die vier Funktionen geschrieben werden.
 int main() {
     int aufgabe;
 
